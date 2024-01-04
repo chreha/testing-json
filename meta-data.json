@@ -1,7 +1,17 @@
 [{
   "PageId": "home",
   "title": "test title",
-  "description": "test description"
+  "description": "test description",
+  "additionalTags": [
+    {
+      "name": "tag1",
+      "content": "tag1Content"
+    },    
+    {
+      "name": "tag2",
+      "content": "tag2Content"
+    }
+  ]
 },
 {
   "PageId": "home2",
