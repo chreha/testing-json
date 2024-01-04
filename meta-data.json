@@ -1,20 +1,24 @@
-[{
-  "PageId": "home",
-  "title": "test title",
-  "description": "test description",
-  "additionalTags": [
+{
+  "pages": [
     {
-      "name": "tag1",
-      "content": "tag1Content"
-    },    
+      "PageId": "home",
+      "title": "test title",
+      "description": "test description",
+      "additionalTags": [
+        {
+          "name": "tag1",
+          "content": "tag1Content"
+        },    
+        {
+          "name": "tag2",
+          "content": "tag2Content"
+        }
+      ]
+    },
     {
-      "name": "tag2",
-      "content": "tag2Content"
+      "PageId": "home2",
+      "title": "test title2",
+      "description": "test description2"
     }
   ]
-},
-{
-  "PageId": "home2",
-  "title": "test title2",
-  "description": "test description2"
-}]
+}
