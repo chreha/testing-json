@@ -4,7 +4,11 @@
       "pagekey": "home",
       "title": "Touchstone Orthodontics - Atlanta Invisalign & Orthodontist",
       "description": "Touchstone Orthodontics is the practice of Atlanta orthodontist Dr. Meridith Long. We offer complimentary x-rays and consultations. Clear braces available.",
-      "keywords": "a"
+      "keywords": "a",
+      "jsonLD": [
+        {"@context":  "https://schema.org/","@type": "WebSite","name": "Affordable Connectivity Program (Official ACP Provider)","url": "https://www.whoopconnect.com/"},
+        {"@context":  "https://schema.org/","@type": "WebSite","name": "Affordable Connectivity Program (Official ACP Provider)","url": "https://www.whoopconnect.com/"}
+      ]
     },
     {
       "pagekey": "",
