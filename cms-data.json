@@ -1,1 +1,16 @@
-
+{
+  "controls": [
+    {
+      "cmsID": "123",
+      "classes": ["test", "test1"],
+      "innerText": "",
+      "innerHTML": "<strong>Bad</strong>"
+    },    
+    {
+      "cmsID": "1234",
+      "classes":[],
+      "innerText": "You da Man",
+      "innerHTML": ""
+    },
+  ]
+}
