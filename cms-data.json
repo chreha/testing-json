@@ -4,7 +4,13 @@
       "cmsID": "123",
       "classes": ["test", "test1"],
       "innerText": "",
-      "innerHTML": "<strong>Bad</strong>"
+      "innerHTML": "<strong>Bad</strong>",
+      "properties": [
+        {
+          "key":"data-type",
+          "value":"a value"
+        }
+      ]
     },    
     {
       "cmsID": "1234",
