@@ -2,6 +2,7 @@
   "controls": [
     {
       "cmsID": "123",
+      "tagName": "p",
       "classes": ["test", "test1"],
       "innerText": "",
       "innerHTML": "<strong>Bad</strong>",
@@ -14,6 +15,7 @@
     },    
     {
       "cmsID": "1234",
+      "tagName": "p",
       "classes":[],
       "innerText": "You da Man",
       "innerHTML": ""
