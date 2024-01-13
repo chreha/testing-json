@@ -2,7 +2,7 @@
   "controls": [
     {
       "cmsID": "123",
-      "tagName": "p",
+      "tagName": "test-article",
       "classes": ["test", "test1"],
       "innerText": "",
       "innerHTML": "<strong>Bad</strong>",
