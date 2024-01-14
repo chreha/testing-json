@@ -25,13 +25,6 @@
           "value":"a value"
         }
       ]
-    }, 
-    {
-      "cmsID": "1234",
-      "tagName": "p",
-      "classes":[],
-      "innerText": "You da Man",
-      "innerHTML": ""
     }
   ]
 }
